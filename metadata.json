@@ -1,0 +1,6 @@
+{
+  "name": "ClientTrack",
+  "description": "Customer fee & progress management platform for businesses to track onboarding dates, active plans, milestones, and pending dues with reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
